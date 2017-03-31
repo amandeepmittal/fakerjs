@@ -1,0 +1,16 @@
+{
+  "name": "fakerjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.0",
+    "faker": "4.1.0"
+  }
+}
